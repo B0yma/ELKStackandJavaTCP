@@ -1,0 +1,1 @@
+logstash -f tcp2elastic.conf
