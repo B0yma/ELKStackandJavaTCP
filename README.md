@@ -1,5 +1,5 @@
 # ELKStackandJavaTCP
 # INTERFACE
-![](IMGS/SCR.png)
+![SCR](IMGS/SCR.png)
 # ARCH
 ![architecture schema](IMGS/ARCH.png)
