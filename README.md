@@ -2,4 +2,4 @@
 # INTERFACE
 
 # ARCH
-![architecture schema](images/architecture-schema.png)
+![architecture schema](IMGS/ARCH.png)
